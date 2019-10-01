@@ -4,6 +4,10 @@ div{
     padding: 20px;
 }
 
+.classy{
+    font-size: 169%;
+}
+
 #first{
     font-family: 'Courier New', Courier, monospace;
     text-decoration: underline;
