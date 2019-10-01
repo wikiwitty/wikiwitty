@@ -1,0 +1,24 @@
+div{
+    text-align: center;
+    margin:20px;
+    padding: 20px;
+}
+
+#first{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#second{
+    background-color: chocolate;
+    color:white;
+    box-shadow: 5px 10px #888888;
+}
+
+#third{
+    border:5px solid black;
+    border-radius: 10px;
+    width: 300px;
+}
